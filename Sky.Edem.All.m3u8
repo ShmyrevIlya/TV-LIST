@@ -29,20 +29,12 @@ http://wps5c7yt.rostelekom.xyz/iptv/PWQWX9EZM3KFQL/544/index.m3u8
 http://wps5c7yt.rostelekom.xyz/iptv/PWQWX9EZM3KFQL/5033/index.m3u8
 #EXTINF:-1 tvg-id="1003" group-title="Общие" tvg-logo="http://epg.one/img2/2765.png" catchup-days="3" tvg-rec="3", Пятница! HD
 http://wps5c7yt.rostelekom.xyz/iptv/PWQWX9EZM3KFQL/5031/index.m3u8
-#EXTINF:-1 tvg-id="2401" group-title="Общие" tvg-logo="http://epg.one/img2/2401.png" catchup-days="3" tvg-rec="3", RTVi
-http://wps5c7yt.rostelekom.xyz/iptv/PWQWX9EZM3KFQL/2086/index.m3u8
 #EXTINF:-1 tvg-id="304" group-title="Общие" tvg-logo="http://epg.one/img2/304.png" catchup-days="7" tvg-rec="7", Домашний
 http://wps5c7yt.rostelekom.xyz/iptv/PWQWX9EZM3KFQL/514/index.m3u8
-#EXTINF:-1 tvg-id="2142" group-title="Общие" tvg-logo="http://epg.one/img2/2142.png" catchup-days="3" tvg-rec="3", Настоящее время
-http://wps5c7yt.rostelekom.xyz/iptv/PWQWX9EZM3KFQL/986/index.m3u8
 #EXTINF:-1 tvg-id="2265" group-title="Общие" tvg-logo="http://epg.one/img2/2265.png" catchup-days="3" tvg-rec="3", 360 HD
 http://wps5c7yt.rostelekom.xyz/iptv/PWQWX9EZM3KFQL/2065/index.m3u8
 #EXTINF:-1 tvg-id="2476" group-title="Общие" tvg-logo="http://epg.one/img2/2476.png" catchup-days="3" tvg-rec="3", Красная линия
 http://wps5c7yt.rostelekom.xyz/iptv/PWQWX9EZM3KFQL/2147/index.m3u8
-#EXTINF:-1 tvg-id="2465" group-title="Общие" tvg-logo="http://epg.one/img2/2465.png" catchup-days="3" tvg-rec="3", ЛДПР ТВ
-http://wps5c7yt.rostelekom.xyz/iptv/PWQWX9EZM3KFQL/2110/index.m3u8
-#EXTINF:-1 tvg-id="2398" group-title="Общие" tvg-logo="http://epg.one/img2/2398.png" catchup-days="3" tvg-rec="3", Вместе-РФ
-http://wps5c7yt.rostelekom.xyz/iptv/PWQWX9EZM3KFQL/2073/index.m3u8
 #EXTINF:-1 tvg-id="187" group-title="Общие" tvg-logo="http://epg.one/img2/187.png" catchup-days="7" tvg-rec="7", Россия-Культура
 http://wps5c7yt.rostelekom.xyz/iptv/PWQWX9EZM3KFQL/505/index.m3u8
 #EXTINF:-1 tvg-id="405" group-title="Общие" tvg-logo="http://epg.one/img2/405.png", Звезда HD
@@ -55,14 +47,8 @@ http://wps5c7yt.rostelekom.xyz/iptv/PWQWX9EZM3KFQL/10059/index.m3u8
 http://wps5c7yt.rostelekom.xyz/iptv/PWQWX9EZM3KFQL/15229/index.m3u8
 #EXTINF:-1 tvg-id="5692" group-title="Общие" tvg-logo="http://epg.one/img2/5692.png", ТНТ International
 http://wps5c7yt.rostelekom.xyz/iptv/PWQWX9EZM3KFQL/15230/index.m3u8
-#EXTINF:-1 tvg-id="6029" group-title="Общие" tvg-logo="http://epg.one/img2/6029.png", Первый российский национальный канал HD
-http://wps5c7yt.rostelekom.xyz/iptv/PWQWX9EZM3KFQL/16023/index.m3u8
-#EXTINF:-1 tvg-id="2399" group-title="Общие" tvg-logo="http://epg.one/img2/2399.png", Дождь HD
-http://wps5c7yt.rostelekom.xyz/iptv/PWQWX9EZM3KFQL/20083/index.m3u8
 #EXTINF:-1 tvg-id="1598" group-title="Общие" tvg-logo="http://epg.one/img2/1598.png" catchup-days="7" tvg-rec="7", Че
 http://wps5c7yt.rostelekom.xyz/iptv/PWQWX9EZM3KFQL/513/index.m3u8
-#EXTINF:-1 tvg-id="2770" group-title="Общие" tvg-logo="http://epg.one/img2/2770.png" catchup-days="3" tvg-rec="3", Gametoon HD
-http://wps5c7yt.rostelekom.xyz/iptv/PWQWX9EZM3KFQL/5049/index.m3u8
 #EXTINF:-1 tvg-id="726" group-title="Общие" tvg-logo="http://epg.one/img2/726.png", Мир HD
 http://wps5c7yt.rostelekom.xyz/iptv/PWQWX9EZM3KFQL/15119/index.m3u8
 
